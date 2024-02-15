@@ -7,4 +7,5 @@ To train the model download the processed dataset from https://mega.nz/folder/ta
 1) Amalyze dataset in /Dataset_Analysis/Analysis
 2) Train model in /Dataset\ And\ Training/Model-Training (Change parameters in notebookacc to your needs)
 3) Use model in terminal in main.py
-4) Use model in webpage using app.js
+4) Use model in webpage using "app.js"
+   
